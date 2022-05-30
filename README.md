@@ -1,4 +1,14 @@
-# Vault - autoseal
+---
+page_type: sample
+languages:
+- bicep
+products:
+- azure-key-vault
+- azure-linux-vm
+- azure-storage
+- azure-rbac
+---
+# Hashicorp Vault - autoseal using Azure KeyVault
 
 This repo would spin up an Ubuntu VM with Hashicorp Vault as a service, configured to unseal with Azure keyVault, with all required resources.
 
