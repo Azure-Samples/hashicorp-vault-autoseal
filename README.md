@@ -24,7 +24,7 @@ This project framework provides the following features:
 
 -Clone this repo to your local machine ```git clone https://github.com/yodobrin/vault```
 
--Change directory to ```../vault/deploy/bicep```
+-Change directory to ```../hashicorp-vault-autoseal/deploy/bicep```
 
 -Modify the file ```param.json``` and replace the values to match your settings.
 
