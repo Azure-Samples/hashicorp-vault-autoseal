@@ -1,4 +1,4 @@
-# Project Name
+# Vault - autoseal
 
 This repo would spin up an Ubuntu VM with Hashicorp Vault as a service, configured to unseal with Azure keyVault, with all required resources.
 
