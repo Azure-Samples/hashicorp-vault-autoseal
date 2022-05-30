@@ -77,6 +77,7 @@ Initial Root Token: xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 Success! Vault is initialized
 
+
 Recovery key initialized with 5 key shares and a key threshold of 3. Please
 securely distribute the key shares printed above.
 ```
